@@ -1,8 +1,8 @@
 {
-  "name": "algorithmen",
+  "name": "algorithms-and-datastructures-javascript",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/algorithmen.js",
+  "main": "dist/algorithms-and-datastructures-javascript.js",
   "scripts": {
     "precommit": "npm test && npm run build",
     "build": "rimraf dist && webpack --no-minimize && webpack",
@@ -14,7 +14,7 @@
     "tdd": "npm run test-server -- --watch",
     "tdd-browser": "karma start"
   },
-  "repository": "sketchap/algorithmen",
+  "repository": "sketchap/algorithms-and-datastructures-javascript",
   "keywords": [
   ],
   "files": [
