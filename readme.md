@@ -1,5 +1,5 @@
 # algorithmen
-[![Build Status][travis-image]][https://travis-ci.org/sketchap/algorithms-and-datastructures-javascript.svg?branch=master]
+[![Build Status](https://travis-ci.org/sketchap/algorithms-and-datastructures-javascript.svg?branch=master)](https://travis-ci.org/sketchap/algorithms-and-datastructures-javascript)
 [![Coveralls Status][coveralls-image]][coveralls-url]
 [![Dependency Status][depstat-image]][depstat-url]
 
